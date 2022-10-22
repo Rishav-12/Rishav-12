@@ -24,6 +24,11 @@ I've been teaching myself Python, HTML/CSS and also JavaScript for the last 2 ye
 <a href="https://www.twitter.com/rishavmitra15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
