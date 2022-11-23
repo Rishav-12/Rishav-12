@@ -15,11 +15,11 @@ I've been learning and building projects with Python, HTML/CSS and JavaScript
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text detection in images with OpenCV in Python](https://rishav10.hashnode.dev/text-detection-in-images-with-opencv-in-python)
 - [A guide on how to make your first contributions to Open Source](https://rishav10.hashnode.dev/a-guide-on-how-to-make-your-first-contributions-to-open-source)
 - [Environment variables and hiding secrets](https://rishav10.hashnode.dev/environment-variables-and-hiding-secrets)
 - [Let&#39;s build a super cool Flask web app](https://rishav10.hashnode.dev/lets-build-a-super-cool-flask-web-app)
 - [Random Walk visualized with Python](https://rishav10.hashnode.dev/random-walk-visualized-with-python)
-- [[Python] Binary &amp; Decimal Number Systems and how to convert between them](https://rishav10.hashnode.dev/python-binary-decimal-number-systems-and-how-to-convert-between-them)
 <!-- BLOG-POST-LIST:END -->
 
 
