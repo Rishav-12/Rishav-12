@@ -13,11 +13,11 @@ I've been learning and building projects with Python, HTML/CSS and JavaScript
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How ChatGPT built an entire app from scratch](https://rishav10.hashnode.dev/how-chatgpt-built-an-entire-app-from-scratch)
 - [Text detection in images with OpenCV in Python](https://rishav10.hashnode.dev/text-detection-in-images-with-opencv-in-python)
 - [A guide on how to make your first contributions to Open Source](https://rishav10.hashnode.dev/a-guide-on-how-to-make-your-first-contributions-to-open-source)
 - [Environment variables and hiding secrets](https://rishav10.hashnode.dev/environment-variables-and-hiding-secrets)
 - [Let&#39;s build a super cool Flask web app](https://rishav10.hashnode.dev/lets-build-a-super-cool-flask-web-app)
-- [Random Walk visualized with Python](https://rishav10.hashnode.dev/random-walk-visualized-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="http://www.github.com/Rishav-12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-12&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
